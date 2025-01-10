@@ -1,5 +1,5 @@
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,aws,git,docker,mongo,redis,rabbitmq,bots,elasticsearch,grafana,postman,prometheus,bash,androidstudio,bootstrap,c,cpp,html,css,gitlab,java,kotlin,notion,sqlite,obsidian,react,ts,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,aws,git,docker,mongo,redis,rabbitmq,bots,elasticsearch,grafana,postman,prometheus)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=mcconderez)
 
