@@ -7,4 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcconderez&hide_progress=false&theme=tokyonight)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/MinoddeinEz?theme=radical&font=Chenla)
+
 ![Codewars](https://github.r2v.ch/codewars?user=McConderEz)
