@@ -53,6 +53,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Minoddein&theme=discord&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
+## ☕ Топливо для кода
+
+<img src="https://img.buymeacoffee.com/button-api/?text=Выпито кофе: 1488&emoji=☕&slug=Minoddein&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
+
 ## 🎮 Когда я не пишу код
 
 - 📺 Смотрю сериалы
