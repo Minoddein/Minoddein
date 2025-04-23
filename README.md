@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" />
   
-  ### .NET разработчик
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=Привет+мир!;Я+.NET+разработчик;КМС+по+спортивному+программированию)](https://git.io/typing-svg)  
   
   [![GitHub followers](https://img.shields.io/github/followers/Minoddein?style=for-the-badge&logo=github&color=236ad3)](https://github.com/Minoddein?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/Minoddein?style=for-the-badge&logo=github&color=ff69b4)](https://github.com/Minoddein?tab=repositories)
+  
 </div>
 
 ## 💫 Обо мне
@@ -45,6 +46,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Minoddein&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minoddein&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170"/>
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minoddein&theme=react-dark)
+  
 </div>
 
 ## 🏆 Достижения
