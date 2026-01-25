@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=Привет+мир!;Я+.NET+разработчик;КМС+по+спортивному+программированию)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=Привет+мир!;Я+.NET+разработчик;)](https://git.io/typing-svg)  
   
   [![GitHub followers](https://img.shields.io/github/followers/Minoddein?style=for-the-badge&logo=github&color=236ad3)](https://github.com/Minoddein?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/Minoddein?style=for-the-badge&logo=github&color=ff69b4)](https://github.com/Minoddein?tab=repositories)
@@ -10,7 +10,6 @@
 
 ## 💫 Обо мне
 
-- 🌱 Изучаю *DDD*, *Микросервисную архитектуру*, *Алгоритмы и структуры данных*
 - 👯 Ищу возможности для сотрудничества в *.NET проектах*
 - 🏆 КМС по спортивному программированию
 - 💻 Бывший участник хакатонов в составе команды [Код-418](https://github.com/code-418-dpr)
